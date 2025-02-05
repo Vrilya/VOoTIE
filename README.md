@@ -10,6 +10,9 @@ Vrilya's Ocarina of Time Image Extractor/Injector is a tool designed for extract
 - **Batch Processing**: Extract and inject multiple images automatically based on predefined settings.
 - **GUI Interface**: A user-friendly graphical interface for selecting ROMs, settings, and output folders.
 
+## Download
+You can download the latest version of **VOoTIE** from the [Releases page](https://github.com/Vrilya/VOoTIE/releases).
+
 ## How to Use
 ### Extracting Images
 1. **Run the program**: Open `VOoTIE.exe`.
@@ -29,11 +32,8 @@ Vrilya's Ocarina of Time Image Extractor/Injector is a tool designed for extract
 The settings file defines image extraction and injection parameters.
 
 Example:
-```
 Set TexS 32x32  # Sets texture size
 Exp IA8 0x12345678 my_texture  # Exports texture at given address
-```
 
 ## Notes
 - Always create a backup of your ROM before making modifications.
-
