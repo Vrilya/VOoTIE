@@ -1,7 +1,7 @@
 # Vrilya's Ocarina of Time Image Extractor/Injector
 
 ## Overview
-Vrilya's Ocarina of Time Image Extractor/Injector is a tool designed for extracting and injecting image textures from The Legend of Zelda: Ocarina of Time ROM files. This tool allows users to extract textures in various formats, modify them, and re-insert them into the game, making it useful for modding and custom texture replacements.
+Vrilya's Ocarina of Time Image Extractor/Injector is a tool designed for extracting and injecting image textures from The Legend of Zelda: Ocarina of Time ROM files. This tool allows users to extract textures, modify them, and re-insert them into the game, making it useful for modding and custom texture replacements.
 
 ## Features
 - **Extract Images**: Extract textures from the game ROM.
